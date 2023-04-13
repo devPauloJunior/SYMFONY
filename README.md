@@ -1,13 +1,7 @@
 # Class SYMFONY
 
+![GitHub repo size](https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square">
-
-.. image:: https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square
-   :alt: GitHub repo size
-
-   image:https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square[GitHub repo size]
-
-   https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square
 ![GitHub language count](https://img.shields.io/github/languages/count/devPauloJunior/README-template?style=for-the-badge)
 
 ## Quick setup
