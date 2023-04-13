@@ -1,9 +1,7 @@
 # Class SYMFONY
 
-![GitHub repo size](https://img.shields.io/github/repo-size/devPauloJunior/README-template?style=for-the-badge)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square">
 ![GitHub language count](https://img.shields.io/github/languages/count/devPauloJunior/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/devPauloJunior/README-template?style=for-the-badge)
-
 
 ## Quick setup
 
