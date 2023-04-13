@@ -6,10 +6,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-### Quick setup
+## Quick setup
 
-## 🚀 Icommand line
-
+### 🚀 Command line
 ```
 git init
 git commit -m "First Commit"
@@ -18,7 +17,9 @@ git remote add origin https://github.com/devPauloJunior/SYMFONY.git
 git push -u origin main
 ```
 
-…or push an existing repository from the command line
+### 🚀 or push an existing repository from the command line
+```
 git remote add origin https://github.com/devPauloJunior/SYMFONY.git
 git branch -M main
 git push -u origin main
+```
