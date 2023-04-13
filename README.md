@@ -2,6 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/devPauloJunior/SYMFONY?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/devPauloJunior/SYMFONY?style=flat-square)
+![GitHub](https://img.shields.io/github/license/devPauloJunior/SYMFONY?style=flat-square)
+
 
 ## Quick setup
 
